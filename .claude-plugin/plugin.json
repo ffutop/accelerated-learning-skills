@@ -1,0 +1,16 @@
+{
+  "name": "accelerated-learning",
+  "version": "1.0.0",
+  "description": "A learning system that turns Claude into your teacher, examiner, resource curator, and study partner. Six chained techniques: path → test → compress → feedback loop.",
+  "author": {
+    "name": "lijinling"
+  },
+  "keywords": [
+    "learning",
+    "study",
+    "teaching",
+    "active-recall",
+    "feynman",
+    "spaced-learning"
+  ]
+}
