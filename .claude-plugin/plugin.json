@@ -1,7 +1,7 @@
 {
   "name": "accelerated-learning",
-  "version": "1.0.0",
-  "description": "A learning system that turns Claude into your teacher, examiner, resource curator, and study partner. Six chained techniques: path → test → compress → feedback loop.",
+  "version": "1.1.0",
+  "description": "Turns Claude into a Socratic tutor over a persistent, network-shaped knowledge map: diagnoses prior knowledge with probe questions, gates mastery behind an exit probe (not self-report), tracks mastery decay for review, shows the full territory including unexplored nodes, and lets the learner drive navigation instead of auto-advancing.",
   "author": {
     "name": "lijinling"
   },
@@ -9,8 +9,10 @@
     "learning",
     "study",
     "teaching",
+    "socratic",
+    "knowledge-graph",
     "active-recall",
-    "feynman",
-    "spaced-learning"
+    "diagnostic-assessment",
+    "calibration"
   ]
 }
